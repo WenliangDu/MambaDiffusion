@@ -1,0 +1,22 @@
+{
+    "config": "configs/whu/ddp_fuse-vssm_b_4x4_256x256_160k_whu_cat_fuma-o_final.py",
+    "metric": {
+        "aAcc": 0.8421,
+        "mIoU": 0.5921,
+        "mAcc": 0.7145,
+        "IoU.farmland": 0.7156999969482422,
+        "IoU.city": 0.6202999877929688,
+        "IoU.village": 0.5243000030517578,
+        "IoU.water": 0.7258000183105469,
+        "IoU.forest": 0.8225,
+        "IoU.road": 0.45099998474121095,
+        "IoU.others": 0.2847999954223633,
+        "Acc.farmland": 0.846500015258789,
+        "Acc.city": 0.7791000366210937,
+        "Acc.village": 0.6580999755859375,
+        "Acc.water": 0.8387000274658203,
+        "Acc.forest": 0.9013999938964844,
+        "Acc.road": 0.5827999877929687,
+        "Acc.others": 0.39490001678466796
+    }
+}
