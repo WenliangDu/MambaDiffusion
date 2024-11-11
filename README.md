@@ -1,6 +1,8 @@
 # A Mamba-Diffusion Framework for Multimodal Remote Sensing Image Semantic Segmentation
 Wen-Liang Du, Yang Gu, Jiaqi Zhao, Hancheng Zhu, Rui Yao and Yong Zhou
 
+[Paper's link](https://ieeexplore.ieee.org/document/10733944) 
+
 ## Overview
 
 ### Abstract
